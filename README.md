@@ -6,4 +6,4 @@ As a hands-on Director, I oversee all aspects of design and development within t
 
 ![](https://github-readme-stats.vercel.app/api?username=spacedawwwg&show_icons=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedawwwg&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=spacedawwwg&layout=compact&count_private=true)
